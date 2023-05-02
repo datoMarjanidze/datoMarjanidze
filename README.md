@@ -1,6 +1,4 @@
-I'm Dato Marjanidze, software engineer at TNET.
-
-Interested in algorithms, data structures, software design and architecture, computer science and web development.
+I'm Dato Marjanidze, software engineer at TNET. Interested in algorithms, data structures, software design and architecture, computer science and web development.
 
 - Medium https://medium.com/@datomarjanidze
 - You can rent my expertise https://www.freelancer.com/u/DatoMarjanidze
